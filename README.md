@@ -9,7 +9,6 @@
 ---
 
 ## 🚀 Fitur 🚀
-* Node.js & npm terinstal
 * ✅ Landing page modern & responsif
 * ✅ Form kontak dengan validasi input
 * ✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
@@ -17,24 +16,6 @@
 * ✅ Di-deploy di platform gratis
 
 ---
-📁 Struktur Folder 📁
-MBC-Lab-Website/
-├── public/
-│   └── board 1.png     # Frontend form HTML (Vercel)
-│   └── board 2.png
-│   └── board 3.png
-│   └── board 4.png
-│   └── fotome.jpg
-│   └── index.html
-│   └── logo mbc.png
-│   └── logo mbc2.webp
-├── .gitignore               
-├── LICENSE                  # lisensi proyek
-├── README.md                # dokumentasi
-├── package-lock.json        
-├── package.json             # metadata Node.js
-└── server.js                # backend Express app
-
 
 ## 📊 Arsitektur 📊
 
@@ -62,12 +43,12 @@ MBC-Lab-Website/
 
 ## 🔄 Alur Kerja Form Kontak 🔄
 
-1️⃣ User membuka frontend di Vercel
-2️⃣ User mengisi form kontak & submit
-3️⃣ Browser mengirim POST request ke backend di Render (`/contact`)
-4️⃣ Backend validasi input & kirim email via SMTP Gmail
-5️⃣ Gmail mengirim email ke inbox penerima
-6️⃣ Backend merespons browser: sukses atau gagal
+* 1️⃣ User membuka frontend di Vercel
+* 2️⃣ User mengisi form kontak & submit
+* 3️⃣ Browser mengirim POST request ke backend di Render (`/contact`)
+* 4️⃣ Backend validasi input & kirim email via SMTP Gmail
+* 5️⃣ Gmail mengirim email ke inbox penerima
+* 6️⃣ Backend merespons browser: sukses atau gagal
 
 ---
 
