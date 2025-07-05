@@ -20,6 +20,7 @@
 * ✅ Footer dengan overview dari MBC Lab, Quick Links, Services, dan Copyright.
 * ✅ “scroll to top” button.
 * ✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
+* ✅ Backend pengiriman form email (Node.js + Express + Nodemailer @ Render)
 * ✅ Arsitektur frontend–backend terpisah (decoupled)
 * ✅ Di-deploy di platform gratis (Vercel & Render)
 
