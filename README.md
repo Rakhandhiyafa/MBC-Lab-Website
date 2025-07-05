@@ -68,7 +68,7 @@ Frontend di-host di Vercel, backend di-host di Render.
 
 ### Frontend
 
-✅ Hosted at: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+✅ Hosted at: [https://mbc-lab-rakhan.vercel.app/](https://mbc-lab-rakhan.vercel.app/)
 
 ### Backend
 
