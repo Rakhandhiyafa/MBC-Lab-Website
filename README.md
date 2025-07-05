@@ -2,19 +2,37 @@
 
 [![Deployment](https://img.shields.io/badge/deployed-Vercel%20%26%20Render-blue?style=flat-square)](https://mbc-lab-website.onrender.com)
 
-✨ Website resmi **MBC Laboratory** dengan form kontak terintegrasi email.
-Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
+*Developed by Me to complete Technical Test for MBC Research Asisstant Recruitment Cybersecurity Division.
+✨ Website **MBC Laboratory** dengan form kontak terintegrasi email. ✨
+*Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
 
 ---
 
 ## 🚀 Fitur 🚀
 
-✅ Landing page modern & responsif
-✅ Form kontak dengan validasi input
-✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
-✅ Arsitektur frontend–backend terpisah (decoupled)
-✅ Di-deploy di platform gratis
+*✅ Landing page modern & responsif
+*✅ Form kontak dengan validasi input
+*✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
+*✅ Arsitektur frontend–backend terpisah (decoupled)
+*✅ Di-deploy di platform gratis
 
+---
+📁 Struktur Folder 📁
+.
+├── public/
+│   ├── index.html
+│   ├── css/
+|   |    |_style.css
+│   |── js/
+|   |    |_script.js 
+|   |__ assets
+|        |_(foto yang dibutuhkan)  
+|
+├── server.js
+├── .env
+├── package-lock.json
+├── package.json
+└── README.md
 ---
 
 ## 📊 Arsitektur 📊
@@ -125,17 +143,16 @@ Pastikan form di frontend (`index4.html`) diarahkan ke backend:
 
 ---
 
-## 👨‍💻 Author 👨‍💻
-Rakhandhiya Fasya Albana
-101012330220
-Cybersecurity Division
-[LinkedIn](https://www.linkedin.com/in/rakhandhiya/)
-📫 [Email](mailto:rakhandhiya.7@gmail.com)
+## 👨‍💻 Developer 👨‍💻
+*Rakhandhiya Fasya Albana (Full-stack)
+*101012330220
+*Cybersecurity Division
+*[LinkedIn](https://www.linkedin.com/in/rakhandhiya/)
+*📫 [Email](mailto:rakhandhiya.7@gmail.com)
 
 ---
 
-## 📝 Lisensi 📝
+## ⚠ Caution ⚠
 
-this repository is for education & non-commercial purposes.
-!Let Me Know!
+*this repository is for education & non-commercial purposes.*
 ---
