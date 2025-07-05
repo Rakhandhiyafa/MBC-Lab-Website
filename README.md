@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Arsitektur 📊
+## 📊 Arsitektur Front End -> Back End 📊
 
 ```
                 🌐 User Browser 🌐
