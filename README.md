@@ -2,38 +2,39 @@
 
 [![Deployment](https://img.shields.io/badge/deployed-Vercel%20%26%20Render-blue?style=flat-square)](https://mbc-lab-website.onrender.com)
 
-*Developed by Me to complete Technical Test for MBC Research Asisstant Recruitment Cybersecurity Division.
-✨ Website **MBC Laboratory** dengan form kontak terintegrasi email. ✨
-*Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
+* Developed by Me to complete Technical Test for MBC Research Asisstant Recruitment Cybersecurity Division.
+* ✨ Website **MBC Laboratory** dengan form kontak terintegrasi email. ✨
+* Frontend & backend terpisah, di-deploy pada platform modern berbeda (Vercel + Render).
 
 ---
 
 ## 🚀 Fitur 🚀
-
-*✅ Landing page modern & responsif
-*✅ Form kontak dengan validasi input
-*✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
-*✅ Arsitektur frontend–backend terpisah (decoupled)
-*✅ Di-deploy di platform gratis
+* Node.js & npm terinstal
+* ✅ Landing page modern & responsif
+* ✅ Form kontak dengan validasi input
+* ✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
+* ✅ Arsitektur frontend–backend terpisah (decoupled)
+* ✅ Di-deploy di platform gratis
 
 ---
 📁 Struktur Folder 📁
-.
+MBC-Lab-Website/
 ├── public/
-│   ├── index.html
-│   ├── css/
-|   |    |_style.css
-│   |── js/
-|   |    |_script.js 
-|   |__ assets
-|        |_(foto yang dibutuhkan)  
-|
-├── server.js
-├── .env
-├── package-lock.json
-├── package.json
-└── README.md
----
+│   └── board 1.png     # Frontend form HTML (Vercel)
+│   └── board 2.png
+│   └── board 3.png
+│   └── board 4.png
+│   └── fotome.jpg
+│   └── index.html
+│   └── logo mbc.png
+│   └── logo mbc2.webp
+├── .gitignore               
+├── LICENSE                  # lisensi proyek
+├── README.md                # dokumentasi
+├── package-lock.json        
+├── package.json             # metadata Node.js
+└── server.js                # backend Express app
+
 
 ## 📊 Arsitektur 📊
 
@@ -144,11 +145,11 @@ Pastikan form di frontend (`index4.html`) diarahkan ke backend:
 ---
 
 ## 👨‍💻 Developer 👨‍💻
-*Rakhandhiya Fasya Albana (Full-stack)
-*101012330220
-*Cybersecurity Division
-*[LinkedIn](https://www.linkedin.com/in/rakhandhiya/)
-*📫 [Email](mailto:rakhandhiya.7@gmail.com)
+* Rakhandhiya Fasya Albana (Full-stack)
+* 101012330220
+* Cybersecurity Division
+* [LinkedIn](https://www.linkedin.com/in/rakhandhiya/)
+* 📫 [Email](mailto:rakhandhiya.7@gmail.com)
 
 ---
 
