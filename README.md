@@ -1,8 +1,6 @@
-# 🌟 MBC Lab Website 🌐
+# 🌐 MBC Lab Website 🌐
 
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/username/repo/actions)
 [![Deployment](https://img.shields.io/badge/deployed-Vercel%20%26%20Render-blue?style=flat-square)](https://mbc-lab-website.onrender.com)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 
 ✨ Website resmi **MBC Laboratory** dengan form kontak terintegrasi email.
 Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
@@ -15,7 +13,7 @@ Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
 ✅ Form kontak dengan validasi input
 ✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
 ✅ Arsitektur frontend–backend terpisah (decoupled)
-✅ Mudah di-deploy di platform gratis
+✅ Di-deploy di platform gratis
 
 ---
 
@@ -54,9 +52,9 @@ Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
 
 ---
 
-## 🛠️ Teknologi 🛠️
+## 🛠️ Tools & Languages 🛠️
 
-| Bagian       | Teknologi                              |
+| Bagian       | Tools & Languages                      |
 | ------------ | -------------------------------------- |
 | **Frontend** | HTML5, CSS3, JavaScript                |
 |              | Hosted on [Vercel](https://vercel.com) |
@@ -69,8 +67,8 @@ Frontend & backend terpisah, di-deploy pada platform modern (Vercel + Render).
 
 | Layanan      | URL                                                                             |
 | ------------ | ------------------------------------------------------------------------------- |
-| **Frontend** | 🔗 [https://your-vercel-url.vercel.app)](https://mbc-lab-rakhan.vercel.app/)    |
-| **Backend**  | 🔗 [https://mbc-lab-website.onrender.com](https://mbc-lab-website.onrender.com) |
+| **Frontend** | 🔗 [MBC Lab Rakhandhiya Fasya)](https://mbc-lab-rakhan.vercel.app/)             |
+| **Backend**  | 🔗 [Web Service Backend in Render](https://mbc-lab-website.onrender.com)        |
 
 ---
 
@@ -138,6 +136,6 @@ Cybersecurity Division
 
 ## 📝 Lisensi 📝
 
-[MIT](LICENSE) — this repository is for education & non-commercial purposes.
+this repository is for education & non-commercial purposes.
 !Let Me Know!
 ---
