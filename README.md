@@ -9,11 +9,19 @@
 ---
 
 ## 🚀 Fitur 🚀
-* ✅ Landing page modern & responsif
-* ✅ Form kontak dengan validasi input
+* ✅ Landing page modern & responsif (HTML, CSS, JS)
+* ✅ Navigation bar yang adaptif.
+* ✅ Hero section dengan Counter seperti Jumlah Asisten, Pengalaman (dalam Tahun).dll
+* ✅ Visi dan misi Laboratorium MBC.
+* ✅ Services & Division detail (Cybersecurity, Big Data Analytic, Game Tech, GIS)
+* ✅ Laboratory Board untuk Provide Informasi terkini dari MBC Lab.
+* ✅ Form kontak dengan validasi input.
+* ✅ Developer Section untuk Provide informasi detail saya sebagai Developer Landing Page.
+* ✅ Footer dengan overview dari MBC Lab, Quick Links, Services, dan Copyright.
+* ✅ “scroll to top” button.
 * ✅ Email dikirim ke penerima via SMTP Gmail (menggunakan App Password)
 * ✅ Arsitektur frontend–backend terpisah (decoupled)
-* ✅ Di-deploy di platform gratis
+* ✅ Di-deploy di platform gratis (Vercel & Render)
 
 ---
 
