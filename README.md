@@ -1,6 +1,6 @@
 # 🌐 MBC Lab Website 🌐
 
-[![Deployment](https://img.shields.io/badge/deployed-Vercel%20%26%20Render-blue?style=flat-square)](https://mbc-lab-website.onrender.com)
+[![Deployment](https://img.shields.io/badge/deployed-Vercel%20%26%20Render-blue?style=flat-square)](https://mbc-lab-rakhan.vercel.app/)
 
 * Developed by Me to complete Technical Test for MBC Research Asisstant Recruitment Cybersecurity Division.
 * ✨ Website **MBC Laboratory** dengan form kontak terintegrasi email. ✨
@@ -23,6 +23,9 @@
 * ✅ Backend pengiriman form email (Node.js + Express + Nodemailer @ Render)
 * ✅ Arsitektur frontend–backend terpisah (decoupled)
 * ✅ Di-deploy di platform gratis (Vercel & Render)
+* ✅ SSL (HTTPS) Sertifikasi keamanan HTTPS
+* ✅ Custom Domain mbc-lab-rakhan dan title "MBC Laboratory - Research Assistant Recruitment Rakhandhiya Fasya Albana"
+* ✅ Responsivitas, Mobile-friendly dan adaptif
 
 ---
 
